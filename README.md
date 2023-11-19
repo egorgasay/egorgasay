@@ -12,6 +12,9 @@
 - [goMarket](https://github.com/egorgasay/goMarket) 🛒 - Template for online store with loyalty system and admin page. Microservice architecture.  
 - [EtoKyrsi](https://github.com/egorgasay/EtoKyrsi) 👩‍🏫 - A web application written in Go (using the Gin framework), for teachers who want to place their courses in the Internet space.
 
+### Languages 📝
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=egorgasay&theme=highcontrast)
+
 ### Leetcode 🏆
 ![LeetCode Stats](https://leetcard.jacoblin.cool/gasay?theme=dark&font=Noto%20Serif%20Dogra)
 
